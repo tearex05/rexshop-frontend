@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rexshop-frontend/static/css/main.2905511e.css",
+    "main.js": "/rexshop-frontend/static/js/main.dc358208.js",
+    "index.html": "/rexshop-frontend/index.html",
+    "main.2905511e.css.map": "/rexshop-frontend/static/css/main.2905511e.css.map",
+    "main.dc358208.js.map": "/rexshop-frontend/static/js/main.dc358208.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2905511e.css",
+    "static/js/main.dc358208.js"
+  ]
+}
